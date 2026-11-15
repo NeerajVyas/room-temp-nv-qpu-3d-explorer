@@ -1,9 +1,7 @@
-# room-temp-nv-qpu-3d-explorer
+# Portable Room-Temperature NV-Diamond Quantum Computer: 3D Explorer
+An interactive 3D model, built with Three.js, of a portable quantum computer that uses nitrogen-vacancy (NV) centres in diamond as qubits and runs at room temperature (293 K).
 Interactive 3D portable room-temperature NV-diamond quantum computer: hardware view, X-ray laser-beam view, atomic NV lattice, and a Qiskit program journey. Illustrative model.
 
-# Portable Room-Temperature NV-Diamond Quantum Computer: 3D Explorer
-
-An interactive 3D model, built with Three.js, of a portable quantum computer that uses nitrogen-vacancy (NV) centres in diamond as qubits and runs at room temperature (293 K).
 
 > **Illustrative model.** This shows a *typical* NV-diamond machine. It is not the design of any specific company or product, and it is not affiliated with any hardware vendor.
 
